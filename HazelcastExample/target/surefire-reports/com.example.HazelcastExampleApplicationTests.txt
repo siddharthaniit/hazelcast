@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HazelcastExampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 39.713 s - in com.example.HazelcastExampleApplicationTests
